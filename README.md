@@ -22,7 +22,7 @@
 
 # 📊 GitHub Stats:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KlymentievMaksym&layout=donut-vertical&theme=darcula)<br/>
-![KlymentievMaksym's GitHub stats](https://github-readme-stats.vercel.app/api?username=KlymentievMaksym&show_icons=true&theme=darcula)
+![KlymentievMaksym's GitHub stats](https://github-readme-stats.vercel.app/api?username=KlymentievMaksym&show_icons=true&theme=tokyonight)
 
 <!--
 **KlymentievMaksym/KlymentievMaksym** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
