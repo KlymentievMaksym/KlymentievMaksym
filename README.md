@@ -21,7 +21,7 @@
 ![C++](https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white)
 
 # 📊 GitHub Stats:
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KlymentievMaksym&langs_count=8&layout=donut&theme=monokai)<br/>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KlymentievMaksym&langs_count=8&layout=donut-vertical&theme=monokai)<br/>
 ![KlymentievMaksym's GitHub stats](https://github-readme-stats.vercel.app/api?username=KlymentievMaksym&show_icons=true&theme=monokai)
 
 <!--
