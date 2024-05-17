@@ -22,7 +22,7 @@
 
 # 📊 GitHub Stats:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KlymentievMaksym&langs_count=8&layout=donut-vertical&theme=monokai)<br/>
-![KlymentievMaksym's GitHub stats](https://github-readme-stats.vercel.app/api?username=KlymentievMaksym&show_icons=true&theme=monokai)
+![KlymentievMaksym's GitHub stats](https://github-readme-stats.vercel.app/api?username=KlymentievMaksym&show_icons=true&theme=monokai)<br/>
 ![KlymentievMaksym's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Dadmon&layout=compact&theme=monokai)
 
 <!--
