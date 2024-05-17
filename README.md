@@ -21,7 +21,7 @@
 [![C++](https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white)](#)
 
 # 📊 GitHub Stats:
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gre1wy&layout=donut-vertical&theme=darcula)<br/>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KlymentievMaksym&layout=donut-vertical&theme=darcula)<br/>
 ![KlymentievMaksym's GitHub stats](https://github-readme-stats.vercel.app/api?username=KlymentievMaksym&show_icons=true&theme=darcula)
 
 <!--
