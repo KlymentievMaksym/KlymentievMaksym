@@ -16,9 +16,6 @@
 ![Zig](https://img.shields.io/badge/Zig-F7A41D?style=for-the-badge&logo=zig&logoColor=fff)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=fff)
 
-![Markdown](https://img.shields.io/badge/Markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
-![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-
 # 📊 GitHub Stats:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KlymentievMaksym&langs_count=8&layout=donut-vertical&theme=monokai)<br/>
 ![KlymentievMaksym's GitHub stats](https://github-readme-stats.vercel.app/api?username=KlymentievMaksym&show_icons=true&theme=monokai)<br/>
