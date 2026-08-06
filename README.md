@@ -16,8 +16,8 @@
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=fff)
 
 # 📊 GitHub Stats:
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KlymentievMaksym&langs_count=8&layout=donut-vertical&theme=monokai)<br/>
-![KlymentievMaksym's GitHub stats](https://github-readme-stats.vercel.app/api?username=KlymentievMaksym&show_icons=true&theme=monokai)<br/>
+![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=KlymentievMaksym&langs_count=8&layout=donut-vertical&theme=monokai)<br/>
+![KlymentievMaksym's GitHub stats](https://github-stats-extended.vercel.app/api?username=KlymentievMaksym&show_icons=true&theme=monokai)<br/>
 
 <!--
 **KlymentievMaksym/KlymentievMaksym** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
